@@ -9,3 +9,7 @@ function product(a, b) {
         return "i can't do math that complex";
     }
 }
+
+function add (a,b){
+    return a+b;
+}
